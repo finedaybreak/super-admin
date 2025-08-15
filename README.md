@@ -4,7 +4,7 @@
 
 Introduction: Backend management solution under construction 🔨...
 
-visit : [https://admin.wonyichen.com](https://admin.wonyichen.com)
+visit : [https://admin.wongyichen.com](https://admin.wongyichen.com)
 
 ![demo](./images/admin_login.png)
 
