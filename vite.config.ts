@@ -21,4 +21,5 @@ export default defineConfig({
             },
         ],
     },
+    envDir: resolve(__dirname, "env"),
 })

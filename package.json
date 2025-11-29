@@ -12,7 +12,7 @@
         ]
     },
     "scripts": {
-        "start:dev": "vite --mode development",
+        "dev": "vite --mode development",
         "start:mock": "npm run init:mock && vite --mode mock",
         "start:test": "vite --mode test",
         "start:prod": "vite --mode production",
